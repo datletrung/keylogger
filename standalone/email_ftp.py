@@ -9,20 +9,6 @@ from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
 from email.mime.application import MIMEApplication
 
-'''
-server = 'files.000webhost.com'
-port = 21
-username = 'unwatery-flights'
-password = 'Tatdat0922?'
-server_path = 'public_html'
-'''
-'''
-server = 'smtp.gmail.com'
-port = 587
-receiver = 'letrungcaotung@gmail.com'
-sender = 'oceannamedomain@gmail.com'
-password = 'Tatdat0922'
-'''
 
 files = ['standalone/emailftp.py', 'standalone/log.py', 'standalone/setting.py',]
 
