@@ -1,0 +1,32 @@
+
+------------------------------------
+[C:\WINDOWS\py.exe]:
+[media_volume_down][media_volume_down][media_volume_down][ctrl_l][shift][ctrl_r]
+------------------------------------
+[C:\WINDOWS\py.exe]:
+[ctrl_l][shift][ctrl_r]
+
+------------------------------------
+[*Python 3.8.6 Shell*]:
+[ctrl_l][shift][ctrl_r]
+------------------------------------
+[C:\WINDOWS\py.exe]:
+[ctrl_l][shift][ctrl_r]
+------------------------------------
+[C:\WINDOWS\py.exe]:
+[ctrl_l][shift][ctrl_r]
+------------------------------------
+[*Python 3.8.6 Shell*]:
+[ctrl_l][shift][ctrl_r]
+------------------------------------
+[C:\WINDOWS\py.exe]:
+[ctrl_l][shift][ctrl_r]
+------------------------------------
+[C:\WINDOWS\py.exe]:
+[ctrl_l][shift][ctrl_r]
+------------------------------------
+[C:\WINDOWS\py.exe]:
+[ctrl_l][shift][ctrl_r]
+------------------------------------
+[C:\WINDOWS\py.exe]:
+[ctrl_l][shift][ctrl_r]
