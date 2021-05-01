@@ -21,9 +21,10 @@ cd Keylogger
 python run.py
 ```
 
-The keylogger would run in background. You would need to use the combination key **_Ctrl_L + Shift_L + Ctrl_R + Shift_R_** to make it appear. When the GUI is displayed, click **_START_** to hide the keylogger and run it in background.
+The keylogger would run in background. You would need to use the combination key **_Ctrl_L + Shift_L + Ctrl_R + Shift_R_** to make it appear.  
+When the GUI is displayed, click **_START_** to hide the keylogger and run it in background.  
 
-
+![Demo](demo.png)
 
 ## Authors  
 
