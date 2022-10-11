@@ -10,17 +10,6 @@ A just-for-fun project! For educational purposes only.
 -   Python  
 -   Required python packages in run.py  
 
-### Installing
-
-
-Download the repository:  
-
-```
-git clone https://github.com/datletrung/Keylogger.git  
-cd Keylogger  
-python run.py
-```
-
 ### Usage
 
 The keylogger would run in background. You would need to use the combination key **_Ctrl_L + Shift_L + Ctrl_R + Shift_R_** to make it appear.  
